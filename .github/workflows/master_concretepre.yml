@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ConcretePre'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C40873BCF87C438AACCB7ADBF78AEB16 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E3B43BA34384D9FB7EECAF0AC1CA2D0 }}
